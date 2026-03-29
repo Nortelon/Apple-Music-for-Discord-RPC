@@ -1,0 +1,6 @@
+{
+  "discord_client_id": "YOUR_DISCORD_APPLICATION_ID",
+  "poll_interval": 1,
+  "fallback_image": "apple_music_logo",
+  "apple_music_icon": "apple_music_logo"
+}
