@@ -10,6 +10,7 @@ Works just like Spotify's Discord integration, but for Apple Music on Windows.
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://python.org)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?logo=windows)](https://www.microsoft.com/windows)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![GitHub](https://img.shields.io/badge/GitHub-Nortelon-181717?logo=github)](https://github.com/Nortelon/Apple-Music-for-Discord-RPC)
 [![Discord](https://img.shields.io/badge/Discord-Rich%20Presence-5865F2?logo=discord&logoColor=white)](https://discord.com/developers/docs/rich-presence/overview)
 
 </div>
